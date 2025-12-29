@@ -25,3 +25,16 @@
 <img width="1430" alt="9" src="https://github.com/user-attachments/assets/f29f0189-a53a-498f-a95b-d24c9069a823">
 <img width="1430" alt="10" src="https://github.com/user-attachments/assets/47da41eb-7c62-4a3c-8a71-fbb2a8ecfe30">
 <img width="1430" alt="11" src="https://github.com/user-attachments/assets/ff3aab5a-306c-4342-b7de-23f2dcd297c0">
+The 2D-projection part is heavily based on https://arxiv.org/pdf/1708.03898.pdf and the related project: https://github.com/maciejczyzewski/neural-chessboard
+Collecting data: https://tech.bakkenbaeck.com/post/chessvision#chessboard-recognition
+CNN architecture: https://towardsdatascience.com/a-single-function-to-streamline-image-classification-with-keras-bd04f5cfe6df
+https://par.nsf.gov/servlets/purl/10099572
+https://towardsdatascience.com/board-game-image-recognition-using-neural-networks-116fc876dafa
+https://web.stanford.edu/class/cs231a/prev_projects_2016/CS_231A_Final_Report.pdf
+https://cvgl.stanford.edu/teaching/cs231a_winter1415/prev/projects/chess.pdf
+https://github.com/bakkenbaeck/chessboardeditor
+https://github.com/jialinding/ChessVision
+https://machinelearningmastery.com/how-to-implement-major-architecture-innovations-for-convolutional-neural-networks/
+https://stackoverflow.com/questions/56754543/generate-chess-board-diagram-from-an-array-of-positions-in-python
+https://www.programcreek.com/python/?code=yaqwsx%2FPcbDraw%2FPcbDraw-master%2Fpcbdraw%2Fpcbdraw.py#
+https://chess.stackexchange.com/questions/28870/render-a-chessboard-from-a-pgn-file
